@@ -8,7 +8,6 @@
 <h2>My Interests</h2>
 <ul>
 <li>✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)</li>
-<li>💻 Coding</li>
 <li>📊 Desain</li>
 <li>📚 Belajar bahasa</li>
 <li>📚 Baca sejarah, sains, dan fakta unik
