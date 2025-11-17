@@ -3,7 +3,6 @@
 <h3 align="center">I'm Salma</h3>
 <br>
 <p>let me introduce myself</p>
-<img
 <ul>
 <li>I’m a student at El Rahma High School of Computer Science🏫</li>
 <li>Aku Mahasiswa angkatan 2025, jurusan Informatika 👩‍💻</li> 
