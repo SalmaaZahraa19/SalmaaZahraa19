@@ -5,6 +5,7 @@
 <p>let me introduce myself</p>
 <p>Hi! My name is Salma Az Zahra, and I'm an Informatics student at El Rahma High School of Computer Science. I love the world of technology, especially things related to coding, design, and foreign languages.</p>
 <p>I'm the type of person who loves learning new things. For me, new experiences are like leveling up in a game — the more I learn, the more my skills improve!✨</p>
+<h2>My Interests</h2>
 <ul>
 <li>✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)</li>
 <li>💻 Coding</li>
@@ -29,7 +30,6 @@ Beberapa target yang ingin aku capai, seperti:
 <li>🌍 Belajar bahasa asing sampai benar-benar lancar</li>
 <li>🧑‍💻 Mengisi GitHub dengan project-project kecil yang bermanfaat</li>
 </ul>
-<br>
 <h2>Riwayat Pendidikan 🏫</h2>
 <ul>
 <li>TK Al-Fatah Blembem</li>
