@@ -3,13 +3,21 @@
 <h3 align="center">I'm Salma</h3>
 <br>
 <p>let me introduce myself</p>
-<ul>
-<li>I’m a student at El Rahma High School of Computer Science🏫</li>
-<li>Aku Mahasiswa angkatan 2025, jurusan Informatika 👩‍💻</li> 
-<li>aku suka mencoba hal baru, salah satunya coding💻.</li>
-<li>aku juga suka belajar berbagai bahasa, seperti Bahasa Arab🇸🇦, Bahasa Inggris🇬🇧, Bahasa Rusia🇷🇺, dll</li>
-<li>aku suka jalan-jalan🌏, memasak👩‍🍳, membaca buku sejarah📚, dll</li>
-</ul>
+<p>Hi! My name is Salma Az Zahra, and I'm an Informatics student at El Rahma High School of Computer Science. I love the world of technology, especially things related to coding, design, and foreign languages.</p>
+<p>Hal-hal yang aku suka:
+✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)
+💬 Belajar bahasa (Arab 🇸🇦, Inggris 🇬🇧, Rusia 🇷🇺, dll)
+📚 Baca sejarah, sains, dan fakta unik
+🚶‍♀️ Jalan-jalan
+🍳 Masak makanan simple</p>
+<h2>My Goals🤩</h2>
+<p>Untuk sekarang, aku lagi fokus membangun skill sebagai pelajar Informatika.
+Beberapa target yang ingin aku capai, seperti 
+🌱 Menguasai dasar-dasar pemrograman dengan mantap
+🎨 Membuat landing page dan mini-project yang menarik
+🧠 Meningkatkan kemampuan problem solving
+🌍 Belajar bahasa asing sampai benar-benar lancar
+🧑‍💻 Mengisi GitHub dengan project-project kecil yang bermanfaat</p>
 <h2>Riwayat Pendidikan 🏫</h2>
 <ul>
 <li>TK Al-Fatah Blembem</li>
