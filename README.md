@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi everyone 👋</h1>
+<h2 align="center">SalmaaZahraa19</h2>
+<h3 align="center">I'm Salma</h3>
+<br>
+<p>let me introduce myself</p>
+<ul>
+<li>I’m a student at El Rahma High School of Computer Science🏫</li>
+<li>Aku Mahasiswa angkatan 2025, jurusan Informatika 👩‍💻</li> 
+<li>aku suka mencoba hal baru, salah satunya coding💻.</li>
+<li>aku juga suka belajar berbagai bahasa, seperti Bahasa Arab🇸🇦, Bahasa Inggris🇬🇧, Bahasa Rusia🇷🇺, dll</li>
+<li>aku suka jalan-jalan🌏, memasak👩‍🍳, membaca buku sejarah📚, dll</li>
+</ul>
+<h1>social media</h1>
+<h3>salzazzahra10@gmail.com</h3>
+<h3>sazhraz_ on Instagram </h3>
+<h3>0882 1185 1789</h3>
+<br>
+<p>Thank you 🤗.</p>
 
-<!--
-**SalmaaZahraa19/SalmaaZahraa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
