@@ -4,6 +4,7 @@
 <br>
 <p>let me introduce myself</p>
 <p>Hi! My name is Salma Az Zahra, and I'm an Informatics student at El Rahma High School of Computer Science. I love the world of technology, especially things related to coding, design, and foreign languages.</p>
+<p>I'm the type of person who loves learning new things. For me, new experiences are like leveling up in a game — the more I learn, the more my skills improve!✨</p>
 <ul>
 <li>✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)</li>
 <li>💻 Coding</li>
@@ -19,13 +20,15 @@
 </ul>
 <h2>My Goals🤩</h2>
 <p>Untuk sekarang, aku lagi fokus membangun skill sebagai pelajar Informatika.
-Beberapa target yang ingin aku capai, seperti 
+Beberapa target yang ingin aku capai, seperti:
 <br>
-🌱 Menguasai dasar-dasar pemrograman dengan mantap
-🎨 Membuat landing page dan mini-project yang menarik
-🧠 Meningkatkan kemampuan problem solving
-🌍 Belajar bahasa asing sampai benar-benar lancar
-🧑‍💻 Mengisi GitHub dengan project-project kecil yang bermanfaat</p>
+<ul>
+<li>😋 Menguasai dasar-dasar pemrograman dengan mantap</li>
+<li>🎨 Membuat landing page dan mini-project yang menarik</li>
+<li>🧠 Meningkatkan kemampuan problem solving</li>
+<li>🌍 Belajar bahasa asing sampai benar-benar lancar</li>
+<li>🧑‍💻 Mengisi GitHub dengan project-project kecil yang bermanfaat</li>
+</ul>
 <br>
 <h2>Riwayat Pendidikan 🏫</h2>
 <ul>
@@ -40,6 +43,6 @@ Beberapa target yang ingin aku capai, seperti
 <h3>📸 Instagram : @sazhraz_</h3>
 <h3>📱 WhatsApp : 0882 1185 1789</h3>
 <br>
-<p>Thank you 🤗.</p>
+<p>Thank you guys🤗.</p>
 
 
