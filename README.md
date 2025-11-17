@@ -19,9 +19,9 @@
 </ul>
 <p>“Your future is built by what you study today.”</p>
 <h2>social media</h2>
-<h3>salzazzahra10@gmail.com</h3>
-<h3>sazhraz_ on Instagram </h3>
-<h3>0882 1185 1789</h3>
+<h3>💌 Email : salazzahra10@gmail.com 
+📸 Instagram : @sazhraz_
+📱 WhatsApp : 0882 1185 1789</h3>
 <br>
 <p>Thank you 🤗.</p>
 
