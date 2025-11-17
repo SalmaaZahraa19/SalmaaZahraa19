@@ -4,12 +4,19 @@
 <br>
 <p>let me introduce myself</p>
 <p>Hi! My name is Salma Az Zahra, and I'm an Informatics student at El Rahma High School of Computer Science. I love the world of technology, especially things related to coding, design, and foreign languages.</p>
-<p>Hal-hal yang aku suka:
-✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)
-💬 Belajar bahasa (Arab 🇸🇦, Inggris 🇬🇧, Rusia 🇷🇺, dll)
-📚 Baca sejarah, sains, dan fakta unik
-🚶‍♀️ Jalan-jalan
-🍳 Masak makanan simple</p>
+<ul>
+<li>✨ Nyoba hal baru (termasuk eksperimen coding kecil-kecilan)</li>
+<li>💻 Coding</li>
+<li>📊 Desain</li>
+<li>📚 Belajar bahasa</li>
+<li>📚 Baca sejarah, sains, dan fakta unik
+</li>
+<li>📖 Sejarah</li>
+<li>🔬 Sains</li>
+<li>🤔 Fakta unik</li>
+<li>🚶‍♀️ Jalan-jalan</li>
+<li>🍳 Masak makanan simple</li>
+</ul>
 <h2>My Goals🤩</h2>
 <p>Untuk sekarang, aku lagi fokus membangun skill sebagai pelajar Informatika.
 Beberapa target yang ingin aku capai, seperti 
