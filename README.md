@@ -13,11 +13,13 @@
 <h2>My Goals🤩</h2>
 <p>Untuk sekarang, aku lagi fokus membangun skill sebagai pelajar Informatika.
 Beberapa target yang ingin aku capai, seperti 
+<br>
 🌱 Menguasai dasar-dasar pemrograman dengan mantap
 🎨 Membuat landing page dan mini-project yang menarik
 🧠 Meningkatkan kemampuan problem solving
 🌍 Belajar bahasa asing sampai benar-benar lancar
 🧑‍💻 Mengisi GitHub dengan project-project kecil yang bermanfaat</p>
+<br>
 <h2>Riwayat Pendidikan 🏫</h2>
 <ul>
 <li>TK Al-Fatah Blembem</li>
