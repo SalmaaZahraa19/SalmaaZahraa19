@@ -16,7 +16,6 @@
 <li>MI Al-Fatah Blembem</li>
 <li>SMP Bina Insan Mandiri Bogor</li>
 <li>SMA Bina Insan Mandiri Bogor</li>
-<li>STIKOM El-Rahma Bogor</li>
 </ul>
 <p>“Your future is built by what you study today.”</p>
 <h2>social media</h2>
